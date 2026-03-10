@@ -7,7 +7,8 @@ It includes test planning, test cases, defect reports, and a test summary report
 
 The objective of this project is to practice **Software Testing Life Cycle (STLC)** and create real-world testing documentation.
 
----
+--
+
 
 ## 🎯 Modules Tested
 
